@@ -16,7 +16,6 @@
     <a href="https://telegram.me/termux_hacking_tools"><img title="Tool-Name" src="https://img.shields.io/badge/Tool_Name-Termux_Hacking_LabSetup-green.svg"></a>
     <a href="https://telegram.me/hacking_network8"><img title="telegram" src="https://img.shields.io/badge/Telegram-@hacking_network8-green.svg"></a>
 </p>
-
 _Enhance Your Termux Setup for Hacking on Android with an All-in-One Solution that Empowers You to Perform a Wide Range of Tasks. This Comprehensive Tool is Designed to Streamline Your Hacking Experience, Providing a Versatile Environment to Execute Various Operations. Additionally, it Offers Invaluable Support for Addressing Basic Errors and Issues Specifically Related to Termux, Ensuring a Smooth and Seamless Hacking Journey on your Android Device._
 
 ## Why This Tool Only? ::

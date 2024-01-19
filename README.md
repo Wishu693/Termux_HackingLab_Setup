@@ -84,12 +84,12 @@ Unauthorized use of this project, in part or in whole, may violate applicable co
 For inquiries or permission requests, please contact wishusharma7@gmail.com
 
 ## Follow Us :-
-<a href="https://github.com/Wishu693"><img title="Github" src="https://img.shields.io/badge/GitHub-GManOfficial-brightgreen?style=for-the-badge&logo=github"></a>
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/gman_official.01/)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://www.gmanofficial.courses)
+<a href="https://github.com/Wishu693"></a>
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-blue?style=for-the-badge&logo=instagram)]
+[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)]()
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-cyan?style=for-the-badge&logo=telegram)](https://telegram.sasta396)
 <p align=center>
-<a href="https://www.youtube.com/@gnTecHacker"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Problem Solutioner-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://www.youtube.com/@Impossible_ideas"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Problem Solutioner-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
 ## Special Thanks To [Credits] :

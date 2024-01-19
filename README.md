@@ -5,10 +5,9 @@
 <p align="center">
     <img alt="Version" src="https://img.shields.io/badge/Version-1.1-blue?style=for-the-badge&color=blue">
     <img alt="Stars" src="https://github.com/Wishu693/Termux_HackingLab_Setup?style=for-the-badge&color=magenta">
-    <img alt="Forks" src="https://github.com/Wishu693/Termux_HackingLab_Setup?color=cyan&style=for-the-badge&color=purple">
-    <img alt="License" src="https://img.shields.io/github/license/GManOfficial/Termux_HackingLab_Setup?style=for-the-badge&color=blue">
+    <img alt="Forks" src="https://github.com/Wishu693/Termux_HackingLab_Setup?color=cyan&style=for-the-badge&color=purpler 
     <br>
-    <a href="https://telegram.me/G_Man_Official"><img title="Developer" src="https://img.shields.io/badge/Developer-GManOfficial-red?style=flat-square"></a>
+    <a href="https://telegram.me/sasta396"><img title="Developer"</a>
     <img alt="Maintained" src="https://img.shields.io/badge/Maintained-Yes-blue?style=flat-square">
     <img alt="Written In" src="https://img.shields.io/badge/Written%20In-python-yellow?style=flat-square">
 </p>

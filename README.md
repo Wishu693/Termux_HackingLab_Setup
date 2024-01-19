@@ -55,7 +55,7 @@ _Enhance Your Termux Setup for Hacking on Android with an All-in-One Solution th
 
  pkg install python3 -y
 
- git clone https://github.com/GManOfficial/Termux_HackingLab_Setup.git
+ git clone https://github.com/Wishu693/Termux_HackingLab_Setup.git
 
  cd Termux_HackingLab_Setup
 
@@ -81,13 +81,13 @@ All rights reserved. This Python project, along with its code, documentation, an
 
 Unauthorized use of this project, in part or in whole, may violate applicable copyright laws.
 
-For inquiries or permission requests, please contact gmanofficial.contact@gmail.com.
+For inquiries or permission requests, please contact wishusharma7@gmail.com
 
 ## Follow Us :-
-<a href="https://github.com/GManOfficial"><img title="Github" src="https://img.shields.io/badge/GitHub-GManOfficial-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Wishu693"><img title="Github" src="https://img.shields.io/badge/GitHub-GManOfficial-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/gman_official.01/)
 [![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://www.gmanofficial.courses)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-cyan?style=for-the-badge&logo=telegram)](https://telegram.dog/hacking_network8)
+[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-cyan?style=for-the-badge&logo=telegram)](https://telegram.sasta396)
 <p align=center>
 <a href="https://www.youtube.com/@gnTecHacker"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Problem Solutioner-red?style=for-the-badge&logo=Youtube"></a>
 </p>
